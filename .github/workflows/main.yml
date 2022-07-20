@@ -1,5 +1,5 @@
 
-name: GitlabSync2
+name: GitlabSync
 
 on: 
   - push
